@@ -1,0 +1,2 @@
+# GUECA
+Creación de una empresa promotora y proveedora de servicios turísticos a través de plataformas digitales app y página web, que permita el diseño de paquetes turísticos a partir de la capacidad de pago, actividades a realizar, y otros gustos; se incluirán opciones de accesibilidad que permitan la interacción de personas con discapacidad y la aplicación, para, que ellas puedan recrearse y disfrutar de los atractivos turísticos.
